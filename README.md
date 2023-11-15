@@ -74,6 +74,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **klaud**
 - **kolbek**
 - **kolstek**
+- **kompajl**
 - **konfluens pejdž(a)**
 - **kontribjušn**
 - **koud rivjú**
@@ -123,6 +124,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **skrína** - "obrazovka"
 - **skrínšér**
 - **smart-šéring / desk-šéring**
+- **soljúšn**
 - **stendap**
 - **steš**
 - **svičnúť** - "prepnúť", príklad: "Svični sa do mastera."
