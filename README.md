@@ -86,6 +86,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # N 
 - **nejmspejs**
+- **nouhau**
 
 # O
 - **ohek** - "riešenie", častokrát zlé a nesprávne avšak pre daný moment to stačí
