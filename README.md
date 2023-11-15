@@ -22,12 +22,15 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # D
 - **dajvers**
+- **demidž**
+- **dikšineri**
 - **dilej**
 - **distrekšn**
 - **dženerejtyd**
 - **džira**
 
 # E
+- **ečívment**
 - **edvajs** - "rada", použité napríklad v známom prísloví: "Komu niet edvajsu, tomu niet pomoci."
 - **ejdžár**
 - **ejáj**
@@ -69,6 +72,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **kjúárkód**
 - **klas(a)**
 - **klaud**
+- **kolbek**
 - **kolstek**
 - **konfluens pejdž(a)**
 - **kontribjušn**
