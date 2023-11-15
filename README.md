@@ -23,11 +23,13 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **dajvers**
 - **dilej**
 - **distrekšn**
+- **dženerejtyd**
 - **džira**
 
 # E
 - **edvajs** - "rada", použité napríklad v známom prísloví: "Komu niet edvajsu, tomu niet pomoci."
 - **ejdžár**
+- **ejáj**
 - **elokejšn**
 - **elouvenc** - "povolenie", vo firmách kde používajú tento výraz, nemáte elouvenc na spisovne správne vyjadrovanie.
 - **erej**
