@@ -33,11 +33,13 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 # E
 - **ečívment**
 - **edvajs** - "rada", použité napríklad v známom prísloví: "Komu niet edvajsu, tomu niet pomoci."
+- **efišnsi**
 - **ejdžár**
 - **ejáj**
 - **elokejšn**
 - **elouvenc** - "povolenie", vo firmách kde používajú tento výraz, nemáte elouvenc na spisovne správne vyjadrovanie.
 - **erej**
+- **esenšl**
 
 # F
 - **fankšn**
@@ -122,6 +124,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **sadžeščn**
 - **šérovať obrazovku**
 - **sink**
+- **skedžl**
 - **skrína** - "obrazovka"
 - **skrínšér**
 - **smart-šéring / desk-šéring**
