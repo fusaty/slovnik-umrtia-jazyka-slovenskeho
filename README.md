@@ -2,6 +2,7 @@
 priebežne upravovaný slovník zdementneného moderného vývojára
 
 # A
+- **ajmín**
 - **ajtem** - "vecička", príklad: "Ta to ten ajtem to čo je?"
 - **aptudejt**
 - **ažúr** - "počítač niekoho iného", od ľudí ktorí vám priniesli Windows, jediný operačný systém ktorý nenávidia aj jeho používatelia
@@ -135,6 +136,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **tret**
 
 # U
+- **uel**
 
 # V
 - **vižuálko**
