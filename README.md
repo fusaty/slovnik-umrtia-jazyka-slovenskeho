@@ -30,6 +30,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **distrekšn**
 - **dženerejtyd**
 - **džira**
+- **džob**
 
 # E
 - **ečívment**
