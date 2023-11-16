@@ -69,6 +69,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **juáj**
 - **juiks**
 - **junit testy**
+- **junou**
 - **júzer-storky**
 
 # K
