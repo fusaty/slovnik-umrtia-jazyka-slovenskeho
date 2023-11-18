@@ -103,6 +103,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **ohek** - "riešenie", častokrát zlé a nesprávne avšak pre daný moment to stačí
 - **oupensors**
 - **ouverajdnúť**
+- **ouvr-rejtid**
 
 # P
 - **pajplajny**
