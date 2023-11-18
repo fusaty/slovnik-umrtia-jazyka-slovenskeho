@@ -10,6 +10,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 # B
 - **bag**
 - **bagfiks**
+- **baj~d~vej**
 - **batn**
 - **bejsik**
 - **bejsikli**
