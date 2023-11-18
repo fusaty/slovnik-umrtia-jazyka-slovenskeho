@@ -146,6 +146,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # U
 - **uel**
+- **uičko**
 
 # V
 - **vižuálko**
