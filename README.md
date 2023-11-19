@@ -25,6 +25,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **čeknúť**
 
 # D
+- **dabl**
 - **dajvers**
 - **demidž**
 - **dikšineri**
@@ -57,6 +58,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # H
 - **hajering badžetyng**
+- **háj**
 - **hákvéčko**
 - **heder**
 - **hítid**
@@ -92,6 +94,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **lajn(a)**
 - **libka**
 - **loker**
+- **lou**
 
 # M
 - **majkroservisa**
