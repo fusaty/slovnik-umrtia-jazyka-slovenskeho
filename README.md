@@ -138,6 +138,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **skrínšér**
 - **smart-šéring / desk-šéring**
 - **soljúšn**
+- **stek**
 - **stendap**
 - **steš**
 - **svičnúť** - "prepnúť", príklad: "Svični sa do mastera."
