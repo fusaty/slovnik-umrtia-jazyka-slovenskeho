@@ -11,7 +11,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 # B
 - **bag**
 - **bagfiks**
-- **baj~ d ~vej**
+- **baj~ d ~uej**
 - **batn**
 - **bejsik**
 - **bejsikli**
