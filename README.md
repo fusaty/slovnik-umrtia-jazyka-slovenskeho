@@ -45,6 +45,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **elouvenc** - "povolenie", vo firmách kde používajú tento výraz, nemáte elouvenc na spisovne správne vyjadrovanie.
 - **erej**
 - **esenšl**
+- **evridž**
 
 # F
 - **fankšn**
@@ -92,13 +93,16 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # L 
 - **lajn(a)**
+- **lajkli**
 - **libka**
+- **ličrli/litčerali/literali**
 - **loker**
 - **lou**
 
 # M
 - **majkroservisa**
 - **míting** - "stretnutie", avšak namiesto stretnutia je úplne každý typ dialógu považovaný za míting
+- **moust**
 
 # N 
 - **nejmspejs**
