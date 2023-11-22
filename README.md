@@ -87,9 +87,10 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **kolbek**
 - **kolstek**
 - **kompajl**
-- **konfluens pejdž(a)**
+- **konfluens**
 - **kontribjušn**
-- **koud rivjú**
+- **koud**
+- **koudbejs**
 - **kól** - "hovor", príklad ako ospravedľnenie: "Sorry, teraz nemôžem, mám kól." alebo príklad činnosti v prítomnom čase: "Som na kóle."
 
 # L 
@@ -107,6 +108,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # N 
 - **nejmspejs**
+- **noudžejes**
 - **nouhau**
 
 # O
@@ -118,6 +120,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 # P
 - **pajplajny**
 - **pecko**
+- **pejdž(a)**
 - **pejpr**
 - **pekidž**
 - **performens**
@@ -132,6 +135,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **rekvest**
 - **reporty**
 - **rilís**
+- **rivjú**
 - **rísors**
 
 # S
