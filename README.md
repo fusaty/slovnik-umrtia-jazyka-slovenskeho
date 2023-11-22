@@ -108,7 +108,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # N 
 - **nejmspejs**
-- **noudžejes**
+- **noudDŽeJes**
 - **nouhau**
 
 # O
