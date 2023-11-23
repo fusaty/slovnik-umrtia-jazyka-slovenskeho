@@ -135,6 +135,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **random** - "náhodný/á/é/e", pôvodný výraz je však už považovaný za archaizmus
 - **rekvest**
 - **reporty**
+- **rilej**
 - **rilís**
 - **rivjú**
 - **rísors**
