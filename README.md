@@ -141,6 +141,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **rísors**
 
 # S
+- **sabskripšn**
 - **sadžeščn**
 - **šérovať obrazovku**
 - **sink**
@@ -164,6 +165,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **uičko**
 
 # V
+- **velju**
 - **vižuálko**
 
 # W
