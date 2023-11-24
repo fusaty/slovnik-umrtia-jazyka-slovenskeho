@@ -151,6 +151,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **skrínšér**
 - **smart-šéring / desk-šéring**
 - **soljúšn**
+- **sŕč**
 - **stek**
 - **stendap**
 - **steš**
