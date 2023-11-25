@@ -48,6 +48,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **elouvenc** - "povolenie", vo firmách kde používajú tento výraz, nemáte elouvenc na spisovne správne vyjadrovanie.
 - **eprouč**
 - **erej**
+- **esajn**
 - **esenšl**
 - **evridž**
 
