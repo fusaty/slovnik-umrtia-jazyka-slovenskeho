@@ -161,6 +161,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **svičnúť** - "prepnúť", príklad: "Svični sa do mastera."
 
 # T
+- **tajming**
 - **tiket**
 - **treš**
 - **tret**
