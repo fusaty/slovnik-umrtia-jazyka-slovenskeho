@@ -43,8 +43,10 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **ejdžár**
 - **ejáj**
 - **ej-kej-ej**
+- **ejpíáj**
 - **elokejšn**
 - **elouvenc** - "povolenie", vo firmách kde používajú tento výraz, nemáte elouvenc na spisovne správne vyjadrovanie.
+- **eprouč**
 - **erej**
 - **esenšl**
 - **evridž**
