@@ -131,6 +131,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **pekidž**
 - **performens**
 - **plening**
+- **polisi**
 - **prezka**
 - **pritymač**
 
