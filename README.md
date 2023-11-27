@@ -58,6 +58,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **fíčr / fíčura**
 - **fíling** - "pocit", ten kto feeluje necíti okrem hanby vôbec nič, príklad: "Dnes je pondelok, ja to tu nefeelujem bráško"
 - **frejmvork**
+- **frílens**
 
 # G
 - **grúming**
