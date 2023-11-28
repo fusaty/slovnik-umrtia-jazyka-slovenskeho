@@ -55,6 +55,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **evridž**
 
 # F
+- **fajrvól**
 - **fankšn**
 - **fecilitíz**
 - **fíčr / fíčura**
