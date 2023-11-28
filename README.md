@@ -86,6 +86,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # K
 - **kajnda**
+- **kastom**
 - **kaunter**
 - **kjúárkód**
 - **klas(a)**
