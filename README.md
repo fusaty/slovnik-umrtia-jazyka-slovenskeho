@@ -16,6 +16,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **bazvord**
 - **bejsik**
 - **bejsikli**
+- **bekap**
 - **bilt**
 - **blout**
 - **brauser** - "prehliadač", príklad: "Aký máš na pecku brauser?" POZOR, odpoveď na túto otázku možno vyvolá sebadeštruktívny monológ jej autora, preto sa radšej debatám o prehliadačoch alebo operačných systémoch vyhýbajte!
