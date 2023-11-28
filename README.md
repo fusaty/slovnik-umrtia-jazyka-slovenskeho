@@ -13,6 +13,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **bagfiks**
 - **baj~ d ~uej**
 - **batn**
+- **bazvord**
 - **bejsik**
 - **bejsikli**
 - **bilt**
