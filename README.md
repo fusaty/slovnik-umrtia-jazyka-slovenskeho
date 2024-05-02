@@ -113,6 +113,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 
 # M
 - **majkroservisa**
+- **mejl**
 - **míting** - "stretnutie", avšak namiesto stretnutia je úplne každý typ dialógu považovaný za míting
 - **moust**
 
@@ -160,6 +161,7 @@ priebežne upravovaný slovník zdementneného moderného vývojára
 - **skrínšér**
 - **smart-šéring / desk-šéring**
 - **soljúšn**
+- **spem**
 - **sŕč**
 - **stek**
 - **stendap**
